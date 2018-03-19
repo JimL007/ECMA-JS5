@@ -96,7 +96,7 @@
 
 [6.9 Mutation Observer](#MutationObserver)
 
-## <div id="BOM浏览器环境">7.BOM浏览器环境</div>
+## <p id="BOM">7.BOM浏览器环境</p>
 [7.1 概述](#概述)
 
 [7.2 window对象](#window对象)
