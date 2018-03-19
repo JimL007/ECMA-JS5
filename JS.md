@@ -94,7 +94,7 @@
 
 [6.8 CSS操作](#CSS操作)
 
-[6.9 Mutation Observer](#Mutation Observer)
+[6.9 Mutation Observer](#MutationObserver)
 
 ## <div id="BOM浏览器环境">7.BOM浏览器环境</div>
 [7.1 概述](#概述)
@@ -105,7 +105,7 @@
 
 [7.4 Cookie](#Cookie)
 
-[7.5 Web Storage : 浏览器端数据储存机制](#Web Storage : 浏览器端数据储存机制)
+[7.5 Web Storage : 浏览器端数据储存机制](#浏览器端数据储存机制)
 
 [7.6 同源政策](#同源政策)
 
