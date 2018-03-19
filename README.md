@@ -7,7 +7,7 @@
 ### [面向对象编程](#面向对象编程)
 ### [语法专题](#语法专题)
 ### [DOM模型](#DOM模型)
-### [BOM浏览器环境](#BOM浏览器环境)
+### [BOM浏览器环境](#BOM)
 
 ## <div id="导论">1.导论</div>
 暂无说明
@@ -96,7 +96,7 @@
 
 [6.9 Mutation Observer](#MutationObserver)
 
-## <p id="BOM浏览器环境">7.BOM浏览器环境</p>
+## <p id="BOM">7.BOM浏览器环境</p>
 [7.1 概述](#概述)
 
 [7.2 window对象](#window对象)
