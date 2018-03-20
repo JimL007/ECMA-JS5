@@ -13,7 +13,7 @@
 ## <div id="导论">1.导论</div>
 暂无说明
 ## <div id="语法">2.语法</div>
-[2.1 基本语法](#2.1基本语法.md)
+[2.1 基本语法](#https://github.com/JimL007/javascript/blob/master/2.1%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
 
 [2.2 数据类型](#数据类型)
 
