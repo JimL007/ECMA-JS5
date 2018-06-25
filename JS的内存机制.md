@@ -9,4 +9,8 @@
 ## <a id="内存模型">1. 内存模型</a>
 * JS内存空间分为栈(stack)、堆(heap)、池(一般也会归类为栈中)。   
 * 栈存放基础数据类型，堆存放复杂数据类型，池存放常量。  
-* 基础数据类型:Number,String,Boolean,Null,Undefined;复杂数据类型:Object,Array,Function
+* 基础数据类型:Number,String,Boolean,Null,Undefined;复杂数据类型:Object,Array,Function  
+
+### 栈内存空间
+**栈内存空间的存储方式**:后进先出.(类比乒乓球盒子,从下往上;上面的是最后放进去的,同时上面也是最先取出来的.)  
+**基础数据类型的访问方式**:
